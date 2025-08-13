@@ -43,4 +43,4 @@ This is a simple machine learning web application built using *Python* and *Stre
 
 ## 🚀 Live Demo
 
-🔗 [Click here to open the app](https://domakuntlatejaswi-loanapprovalproject-app-29bld8.streamlit.app/) *
+🔗 [Click here to open the app](https://loan-approval-project-9xnyl2zyifiqn8jcsqgsh4.streamlit.app/) *
